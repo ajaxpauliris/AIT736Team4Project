@@ -1,2 +1,2 @@
-# CS504-006-Team2
-This is the Github repository of Team 2
+# AIT736-Team4
+This is the Github repository of Team 4
